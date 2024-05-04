@@ -1,3 +1,4 @@
+package edu.leonardo.primeirosComandos;
 public class BoletimEscolar {
     public static void main(String[] args) {
         double mediaFinal = 6.0;
